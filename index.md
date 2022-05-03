@@ -1,38 +1,16 @@
-## Welcome to GitHub Pages
+# Journaling Ideas ! ! ! 
+*Journaling is done differently by everyone but here i will be showing you some ideas, or inspiration to get you in the mood to write your feelings, thoughts or anything! That's the beauty of journaling you can be messy, oganized, or both!*
 
-You can use the [editor on GitHub](https://github.com/ifearjhen/ifearjhen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Lists ##
+Write your lists! from things that make you happy, sad, scared or angry! Foods that you like, dislike, or things that you want to try out!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/102715218/161959757-8140e935-a1c4-4dea-aa41-4b913c0b3352.png)
 
-### Markdown
+## Letters ##
+Write letter to yourself! you can add dates when you should specifically open them, to ask your self "have i done my goals?" or "have i changed for the better?" Anything! the possibilities are limitless! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://user-images.githubusercontent.com/102715218/161960344-a602bd32-a93d-4601-8a19-e37792805a76.png)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+that is all
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ifearjhen/ifearjhen.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-there
